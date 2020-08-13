@@ -104,12 +104,6 @@
                     }
                 </code></pre>
       </v-col>
-      <v-col cols="12" md="10" class="mb-md-4 mb-sm-3 mb-2">
-        如果你喜欢 vuetify-admin 或者这正是你需要的，可以给颗心吗！或者想给些建议
-        <v-icon>mdi-git</v-icon>
-        <a class="mr-4 secondary--text" href="https://github.com/Kirito001/vuetify-admin"
-           target="_blank">vuetify-admin</a>你的鼓励就是我的动力！<br/><br/><br/>
-      </v-col>
     </v-row>
   </v-container>
 </template>

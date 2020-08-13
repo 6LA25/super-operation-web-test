@@ -60,7 +60,7 @@
 </template>
 
 <script>
-import icons from '../../plugins/iconsList'
+import icons from '../../constants/iconsList'
 import {mapActions} from 'vuex'
 
 export default {
